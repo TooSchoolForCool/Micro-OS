@@ -1,4 +1,5 @@
 # Micro-OS
+
 Micro OS is a homemade small operating system which based on the JOS from [MIT 6.828](https://pdos.csail.mit.edu/6.828/2016/overview.html). Micro OS is developed for a standard x86-based personal computer and could be booted on most of virtual machines (e.g., Vmware, Virtual Box, QEMU…). For more details about my Micro OS, please move on and check later sections. 
 
 
@@ -13,7 +14,7 @@ For booting/running the Micro OS you need an x86 emulator (here I use **QEMU**),
 
 *Note: In this part, features listed below are developed basic on MIT 6.828 course guideline.*
 
-- [ ] Booting
+- [x] Booting
 - [ ] Memory management
 - [ ] User environments
 - [ ] Preemptive multitasking
